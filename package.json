@@ -2,7 +2,7 @@
   "name": "no1_sqlite3",
   "version": "1.0.0",
   "description": "sqlite3 CRUD sql string build api and exec api wrapper, with npm sql and npm sql.js ",
-  "main": "index.js",
+  "main": "lib/no1_sqlite3.js",
   "scripts": {
     "test": "make test"
   },
