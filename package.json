@@ -19,5 +19,11 @@
   "bugs": {
     "url": "https://github.com/remembercode/no1_sqlite3/issues"
   },
-  "homepage": "https://github.com/remembercode/no1_sqlite3#readme"
+  "homepage": "https://github.com/remembercode/no1_sqlite3#readme",
+  "dependencies": {
+    "log4js": "^0.6.36",
+    "md5": "^2.1.0",
+    "sql": "^0.67.0",
+    "sql.js": "^0.3.2"
+  }
 }
